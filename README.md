@@ -1,1 +1,1 @@
-Test
+THis is the Readme file of the git project for the ALX course for *Uchenna Chukwu*.
